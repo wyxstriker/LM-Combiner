@@ -3,7 +3,7 @@ Implementation of COLING 2024 paper ["LM-Combiner: A Contextual Rewriting Model 
 <div align="center">
     <image src='pic/main.png' width="80%">
 </div>
-All the code and model are released. Thank you for your patience!
+All the code and [model](https://huggingface.co/DecoderImmortal/LM-Combiner) are released. Thank you for your patience!
 
 # Requirements
 
