@@ -732,7 +732,7 @@ def main():
 
         trans_main(trans_main_args())
 
-        P, R, F5 = eval_main(f'./temp_predict_gpt.m2', '/share/home/chewanxiang/yxwang/cbart_cot/data/dev.m2.char')
+        P, R, F5 = eval_main(f'./temp_predict_gpt.m2', './data/fcgec/dev.m2.char')
         result = {
             "P": P,
             "R": R,
